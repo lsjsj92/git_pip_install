@@ -4,7 +4,7 @@ setup(
     name='soojin_lib',
     version='0.0.1',
     description='soojin pip install test',
-    url='git@github.com:lsjsj92/git_pip_install.git',
+    url='https://github.com/lsjsj92/git_pip_install.git',
     author='leesoojin',
     author_email='asfd',
     license='soojin',
